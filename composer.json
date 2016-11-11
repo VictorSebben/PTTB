@@ -1,0 +1,8 @@
+{
+  "require": {
+    "klein/klein": "v2.1.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.5.*"
+  }
+}
